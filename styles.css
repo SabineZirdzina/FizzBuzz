@@ -45,19 +45,19 @@ p{
 
 #parinlineStart{
     display: inline-block;
-    margin-top: 4px;
+    margin-top: 2px;
 }
 #parinlineEnd{
     display: inline-block;
-    margin-top: 4px;
+    margin-top: 2px;
 }
 #parinlineFizz{
     display: inline-block;
-    margin-top: 4px;
+    margin-top: 2px;
 }
 #parinlineBuzz{
     display: inline-block;
-    margin-top: 4px;
+    margin-top: 2px;
 }
 #btnOne{
     display: inline-block;
