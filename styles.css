@@ -42,22 +42,9 @@ p{
 .Fizzbuzz{
     background-color: rgb(255, 0, 255);
 }
-
-#parinlineStart{
+.input{
     display: inline-block;
-    margin-top: 2px;
-}
-#parinlineEnd{
-    display: inline-block;
-    margin-top: 2px;
-}
-#parinlineFizz{
-    display: inline-block;
-    margin-top: 2px;
-}
-#parinlineBuzz{
-    display: inline-block;
-    margin-top: 2px;
+    margin-top: 4px;
 }
 #btnOne{
     display: inline-block;
